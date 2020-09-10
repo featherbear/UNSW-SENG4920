@@ -1,2 +1,3 @@
-# YOUR COURSE TITLE
-2020 Session XX Course Work
+# Management and Ethics
+
+2020 Session Three Course Work
