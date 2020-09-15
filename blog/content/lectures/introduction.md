@@ -1,6 +1,6 @@
 ---
 title: "Lecture: Introduction to Management and Ethics"
-date: 2020-09-15T18:08:32+10:00
+date: 2020-09-15T13:00:00+10:00
 
 categories: ["Lectures"]
 hiddenFromHomePage: false
