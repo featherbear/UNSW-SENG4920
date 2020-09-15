@@ -1,4 +1,4 @@
-title = "COMP4920 Musings"
+title = "SENG4920 Musings"
 
 theme = "hugo-theme-even"
 
@@ -44,7 +44,7 @@ copyright = "Andrew Wong (z5206677)"
   name = "GitHub"
   weight = 20
   identifier = "code"
-  url = "https://github.com/featherbear/UNSW-COMP4920"
+  url = "https://github.com/featherbear/UNSW-SENG4920"
 [[menu.main]]
   name = "Categories"
   weight = 40
@@ -58,9 +58,9 @@ copyright = "Andrew Wong (z5206677)"
   since = "2020"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "COMP4920 Musings"
-  keywords = ["featherbear", "COMP4920", "UNSW"]
-  description = "Musings of a COMP4920 student"
+  logoTitle = "SENG4920 Musings"
+  keywords = ["featherbear", "SENG4920", "UNSW"]
+  description = "Musings of a SENG4920 student"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 10
