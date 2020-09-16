@@ -31,7 +31,7 @@ During the _actual_ seminar, we too began by assessing if engineering is a profe
 
 We then compared the similarities and differences between a Code of Ethics and a Code of Conduct. Whilst both codes serve to make a positive impact, they differ in terms of the ways that they express these notions.
 
-A **Code of Ethics** pertained more towards values and ways of thinking which aid you to arrive to an action. As they are not hard-and-fast rules, the implications of ethics (and free thought/will/speech) means that there is no 'correct' or 'incorrect' thought, which is why the concept of ethics is vague and up for debate. Rather, thoughts vary per individual as a result of their personal experiences, backround and circumstances.
+A **Code of Ethics** pertained more towards values and ways of thinking which aid you to arrive to an action. As they are not hard-and-fast rules, the implications of ethics (and free thought/will/speech) means that there is no 'correct' or 'incorrect' thought, which is why the concept of ethics is vague and up for debate. Rather, thoughts vary per individual as a result of their personal experiences, background and circumstances.
 
 A **Code of Conduct** on the other hand is a specific set of rulings to dictate the "dos and don'ts" in an environment. They have tangible steps that are not up for discussion; and are often backed up with consequences should a rule be broken
 
