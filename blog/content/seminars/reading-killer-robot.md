@@ -16,7 +16,7 @@ sequenceDiagrams:
 
 ---
 
-[Text](./Killer-Robot.pdf)
+[[Text](./Killer-Robot.pdf)]
 
 <!-- You're given two options: kill people or make profit. Mill says you are inherently a bad person. Kant says you're a good person as long as you don't think about the choice. -->
 
