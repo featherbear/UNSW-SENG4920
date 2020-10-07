@@ -33,7 +33,7 @@ In the workplace, _most_ people try to do the right thing as a global citizen to
 * Rationalisation - Backing your actions with reasons that suit your interests
 * Implicit/Unconscious Bias - Overconfidence/narrow scoped as a result of substituting real knowledge for preconceived ideas
 * Ethical Blindness / Illiteracy - Failure to recognise an issue as unethical/ethical
-* False Equivalency Reasonsing - If it's not illegal, it's fine to do
+* False Equivalency Reasoning - If it's not illegal, it's fine to do
 * Ethical Scripting - Using a 'thought template' that is incompatible with the situation
 
 An example of **ethical scripting** was given about the Ford Pinto case, where the safety of the vehicle was not prioritised in favour of cost and turnover time. The oversight as a result of ethical scripting arose from performing a cost-benefit analysis of the required remedy; without considering the cost of reputation.

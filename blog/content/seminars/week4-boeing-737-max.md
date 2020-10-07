@@ -58,7 +58,7 @@ Two definitions of problem of many hands
 
 # How do the issues in the 737 MAX case differ from the fictional 'Killer Robot' scenario from Week 2? In what ways are they the same?
 
-Similarities - Lack of training, So many errors in a short time, No easy override, commercial
+Similarities - Lack of training, So many errors in a short time, No easy override, commercial  
 Differences - Involvement of regulatory authorities, 
 
 # Was sufficient training provided for pilots? Is it ever okay to not disclose potential issues about the system to the pilot in-charge? How does this relate to the concept of informed consent?
