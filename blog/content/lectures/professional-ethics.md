@@ -27,7 +27,7 @@ sequenceDiagrams:
 
 ---
 
-Aristotle's "Nicomachean Ethics" - Some things can be precise, and should be answered with precision. Some things however, cannot be precise, and should not try to be attempted with previous precision.
+Aristotle's "Nicomachean Ethics" - Some things can be precise, and should be answered with precision. But some things, however, cannot be precise and should not be dealt with the same lens lens of precision.
 
 ---
 
