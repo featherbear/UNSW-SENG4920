@@ -16,7 +16,7 @@ sequenceDiagrams:
 
 ---
 
-> [[Reading](../../seminars/reading-killer-robot)]
+> [[Reading](../../seminars/week2-reading-killer-robot)]
 
 # Which behaviour of whom is unethical (in the sense of breaching specific codes)? 
 

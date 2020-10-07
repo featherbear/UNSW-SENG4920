@@ -21,7 +21,7 @@ sequenceDiagrams:
 
 As part of the preparation material, we were suggested to read an excerpt from a text called _Are "Software Engineers" Engineers?_ [[commentary](../../seminars/reading-are-software-engineers-engineers)] - which sought to raise discussion about what it meant to be an 'engineer', and the credibility of engineering accreditation.  
 
-From the text, I [took away](../../seminars/reading-are-software-engineers-engineers) the general consensus that the practise of engineering revolves around using maths / science to make some physical thing. Whilst software is non-physical by nature, it is often required for the enablement physical objects and so it is no less important than any other engineering discipline.
+From the text, I [took away](../../seminars/week1-reading-are-software-engineers-engineers) the general consensus that the practise of engineering revolves around using maths / science to make some physical thing. Whilst software is non-physical by nature, it is often required for the enablement physical objects and so it is no less important than any other engineering discipline.
 
 Another thing to consider is the looseness of the term 'engineer' (_The English language is garrulous with synonyms_). Doctoring a paper doesn't make you a doctor - Screwing in a light bulb doesn't make you an electrician. Software engineering doesn't mean you are an engineer.
 
@@ -55,7 +55,7 @@ I found the case study of the Ford Pinto car blunder very interesting - despite 
 <details><summary>Old Revision</summary>
 As part of the preparation material, we were suggested to read an excerpt from a text called _Are "Software Engineers" Engineers?_ [[commentary](../../seminars/reading-are-software-engineers-engineers)] - which sought to raise discussion about what it meant to be an 'engineer', and the credibility of engineering accreditation.  
 
-From the text, I [took away](../../seminars/reading-are-software-engineers-engineers) the general consensus that the practise of engineering revolves around using maths / science to make some physical thing.  
+From the text, I [took away](../../seminars/week1-reading-are-software-engineers-engineers) the general consensus that the practise of engineering revolves around using maths / science to make some physical thing.  
 Software is non-physical by nature, but often it is required for the enablement of  mechanical / physical objects and so software engineering is no less important than any other engineering discipline.
 
 Another thing to consider is the looseness of an 'engineer' (_Because, you know ... the English language is garrulous with synonyms_). Doctoring a paper doesn't make you a doctor - Screwing in a light bulb doesn't make you an electrician. Software engineering doesn't mean you are an engineer.
