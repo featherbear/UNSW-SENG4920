@@ -21,3 +21,5 @@ sequenceDiagrams:
 
 * Software Project Management
 * Professional Issues and Ethics
+
+<!-- Essay: Come up with a position that you don't accept, and show that it doesn't work -->
