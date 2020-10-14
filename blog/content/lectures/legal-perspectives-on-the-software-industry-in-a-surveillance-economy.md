@@ -52,7 +52,7 @@ Civil Law - Sued by other parties
     * Adequate Notice
     * Fair Hearing
     * No Bias
-  * Separation of powers between different agencies
+  * Separation of powers between different agencies (executive, legislative, judicial)
   * The decision of a court is binding (must be applied)
   * Interests and arguments must be taken into account and balanced
   * Law can be (legally) contested
