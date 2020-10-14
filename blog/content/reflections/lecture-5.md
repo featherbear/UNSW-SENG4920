@@ -16,7 +16,7 @@ sequenceDiagrams:
 
 ---
 
-> Reference: [Legal Perspectives on the Software Industry in a 'Surveillance Economy'](../../legal-perspectives-on-the-software-industry-in-a-surveillance-economy)
+> Reference: [Legal Perspectives on the Software Industry in a 'Surveillance Economy'](../../lectures/legal-perspectives-on-the-software-industry-in-a-surveillance-economy)
 
 **Laws are not constant**  
 The landscape of politics is never stationary. Laws, rules and regulations are constantly added, removed, and modified. Much like the ideology surrounding ethics, there are no absolutes; instead - not only do laws change over time, they vary from place to place; whether it be a council, a state, or even between different countries. As such, when interacting in the public sphere, it is important to be aware of local and foreign laws.
