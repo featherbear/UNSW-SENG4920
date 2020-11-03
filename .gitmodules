@@ -1,3 +1,6 @@
 [submodule "blog/themes/hugo-theme-even"]
 	path = blog/themes/hugo-theme-even
 	url = https://github.com/olOwOlo/hugo-theme-even/
+[submodule "splitify"]
+	path = splitify
+	url = https://github.com/splitify/splitify
