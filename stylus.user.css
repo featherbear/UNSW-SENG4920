@@ -1,0 +1,82 @@
+/* ==UserStyle==
+@name           Empty @name replaces the default template - 9/14/2020, 3:56:31 PM
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+
+@-moz-document regexp("https://www.cse.unsw.edu.au/~cs\\d{4}/indexframe.html") {
+    
+    html {
+      margin: 0;
+      padding: 0;
+      margin-right: 10px;
+      box-shadow: 4px 0px 5px 0px rgba(0,0,0,0.75);
+      background-color: white;
+    }
+    
+    body {
+      height: 100%;
+      margin: 0;
+      background-color: #2E3336;
+      
+      padding: 0;
+      user-select: none;
+    }
+    
+    
+    
+    nobr, dt {
+        width: 100%;  
+        display: inline-grid;
+        font-size: 0px;
+    }
+    
+    nobr > *, dt > * {
+        font-size: initial;
+    }
+       
+    
+    font {
+        display: block;    
+    }
+    
+    dt:nth-child(3) font {
+        font-size: 0;
+    }
+    dt:nth-child(3) font > b, dt:nth-child(3) font > a {
+        font-size: initial;
+    }
+    
+    a {
+        display: block;    
+        background-color: #373e42;
+        transition: background-color 0.3s;
+    }
+    a:hover {
+        background-color: #6fa8c4;
+    }
+    *, a, a:visited {
+      color: #fff; 
+    }
+    
+    a {
+        padding: 2px 0 2px 10px;
+    }
+    b {
+      margin-top: 5px;
+      margin-bottom: 5px;
+      color: #f2f2f2;
+    }
+    
+    a br {display: none}
+    
+    p { 
+text-align: center;
+    }
+    
+    
+    
+}
