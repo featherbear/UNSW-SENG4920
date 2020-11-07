@@ -1,5 +1,5 @@
 ---
-title: "Case Study - Data"
+title: "Case Study: Data"
 date: 2020-11-03T18:08:31+11:00
 
 hiddenFromHomePage: false

@@ -3,6 +3,7 @@ title: "Case Study: Samsung Electronics"
 date: 2020-11-03T18:08:32+11:00
 
 description: "A look into Samsung's contribution towards Environmental Sustainability, if any..."
+
 hiddenFromHomePage: false
 postMetaInFooter: false
 
@@ -15,6 +16,8 @@ sequenceDiagrams:
   options: ""
 
 ---
+
+> PDF Copy Available [here](z5206677-seng4920-report.pdf)
 
 # Investment Assessment of Samsung Electronics
 
