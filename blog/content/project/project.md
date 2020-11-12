@@ -26,5 +26,8 @@ sequenceDiagrams:
 
 ---
 
+* [Project Diary](https://featherbear.cc/UNSW-SENG4920-diary/)
+---
+
 * [Initial Project Pitch](https://splitify.github.io/initial-project-pitch)
 * [Branding Resources](https://splitify.github.io/branding/)
