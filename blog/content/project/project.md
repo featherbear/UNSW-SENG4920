@@ -114,6 +114,8 @@ However, the rest of the team also seemed to not have done much either during th
 
 Okay to be fair - it was over the top, and was just me being extra. But I had also created the [project pitch presentation](https://splitify.github.io/initial-project-pitch), during the wee hours of the morning when I should have been asleep to prepare for the actual project pitch. We should all have been working on that presentation, not just me.
 
+Not that lines of code are in any way, shape or form a good standard of contribution. But I had contributed to around 50% of the project's code base. Given that our taskboard did not assign specific people to specific tasks, I was free to pick up and work on any unstarted task. This was definitely for the better, else I don't think we would have finished on time - and we barely did.
+
 |Planned|Actual|
 |:---:|:---:|
 |![](timeline-planned.png)|![](timeline-actual.png)|
