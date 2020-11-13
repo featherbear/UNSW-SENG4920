@@ -132,10 +132,19 @@ At least I could automate the submission :')
 ![](submission.png)
 
 
----
+# Wrapup
 
-But, we got there in the end. It's over and I'm glad.
+We got there in the end. It's over and I'm glad.  
+
+In my entire tutorial group, I was the only non-software engineering student, as the other Computer Engineering student in my class decided to drop the course. I was also the only third year student in my group, with everyone being in their fourth year.
+
+I felt out of place in my group, being the only third year student, and being the only non-SENG student. Being in fourth year doesn't necessarily mean that you have more experience. <s>It just means you've suffered at uni for an extra year</s>. I'd say that I carried the assignment, not just in the code, but with the branding and presentations too. I also created and led the presentation for our group's seminar on [Intellectual Property](../../seminars/week5-intellectual-property/#presentation).  
+
+One thing I need to remind myself constantly is that whilst everyone learns at their own pace, everyone ends up learning.
 
 Here's a nice screenshot of the project's git activity :)
 
+Also pls look at my [Project Diary](https://featherbear.cc/UNSW-SENG4920-diary/). I spent a lot of time wasted on it
+
 ![](Snipaste_2020-11-14_00-20-22.png)
+
